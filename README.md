@@ -25,7 +25,7 @@ The repository contains the following files:
 - signal_utils.py - useful signal utilies used in some of the scripts
 - load_data.py - this script is used to load in the CIFAR-10 dataset
 
-To run the program just use main.py, it will train and save a model if there is no model available, then run into the webcam loop. No data has be pushed to this repo, therefore download the pickled batches and place them in data/cifar-10/
+To run the program just use main.py, it will train and save a model if there is no model available, then run into the webcam loop.
 
 ## Contributing
 If you would like to contribute to this repository, please fork the repository and make the necessary changes. Then, submit a pull request for review.
