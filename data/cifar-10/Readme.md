@@ -1,1 +1,1 @@
-[CIFAR-1 Dataset](http://www.cs.toronto.edu/~kriz/cifar.html)
+[CIFAR-10 Dataset](http://www.cs.toronto.edu/~kriz/cifar.html)
