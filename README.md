@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains a computer vision program that trains a Convolutional Neural Network (CNN) on the CIFAR-10 dataset, and then utilizes the trained model on images taken with a USB webcam. The program is a basic implementation and can be further expanded by using a more extensive dataset with higher quality images and additional classes, as well as a graphical user interface (GUI) to make the user interface more user-friendly.
+This repository contains a computer vision program that trains a Convolutional Neural Network (CNN) on the CIFAR-10 dataset, and then utilizes the trained model on images taken with a USB webcam. The program is a basic implementation and can be further expanded by using a more extensive dataset with higher quality images and additional classes (i.e., ImageNet, ImageNet32), as well as a graphical user interface (GUI) to make the user interface more user-friendly.
 
 ## Installation
 To run this program, you will need the following packages installed:
